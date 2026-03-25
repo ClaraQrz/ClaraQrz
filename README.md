@@ -49,10 +49,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraQrz&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
----
-
-## ✨ Um pouco mais sobre mim
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Bem-vinda+ao+meu+perfil!;Futura+Full-Stack+Developer;Explorando+UI%2FUX+e+Design+🎨;Sempre+aprendendo+🚀" />
-</p>
