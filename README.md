@@ -18,8 +18,7 @@
 ## 👩‍💻 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação  
-- 🚀 Focada em desenvolvimento backend  
-- 📱 Interesse em desenvolvimento mobile com Flutter  
+- 🚀 Focada em desenvolvimento backend   
 - 🎨 Explorando UI/UX e design de interfaces  
 - 🧠 Buscando me tornar uma desenvolvedora full-stack  
 
